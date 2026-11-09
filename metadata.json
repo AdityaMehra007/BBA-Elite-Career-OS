@@ -1,0 +1,6 @@
+{
+  "name": "BBA Elite Career OS",
+  "description": "Autonomous Bangalore & Global Fresher Career Operating System with verified job IDs, full JDs, ATS resume scorer, salary calculator, and interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
